@@ -1,5 +1,5 @@
 ## tefCam
-Simple Cam app that allows using any number of windows &amp; cameras - nb: quick hack of the Chrome Packaged App Camera sample ;p
+Simple Cam app that allows using any number of windows &amp; cameras ( quick hack of the Chrome Packaged App Camera sample ;p )
 
 Nb: if a popup message appears after clicking "continue" on at the bottom of tha page, you may need to instead "Save as .." & then drag & drop the .crx file to the following address in your Chrome browser:  
 
